@@ -1,12 +1,9 @@
-Here’s an **enhanced `README.md`** with a strong *development journey / iteration section* added — this is exactly what makes your project stand out professionally 👇
-
----
 
 # 🏡 Airbnb Booking Assistant (Bangkok Listings)
 
 ## 📌 Overview
 
-This project builds a **GPT-powered AI booking assistant** that helps users search and explore Airbnb-style listings in Bangkok using a structured dataset.
+This my practice project builds a **GPT-powered AI booking assistant** that helps users search and explore Airbnb-style listings in Bangkok using a structured dataset from Inside Airbnb. 
 
 The assistant is designed as a **tool-using AI agent**, capable of:
 
